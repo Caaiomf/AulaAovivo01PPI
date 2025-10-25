@@ -1,0 +1,27 @@
+{
+  "name": "aulaaovivo01ppi",
+  "version": "1.0.0",
+  "description": "primeiro programa para internet usando node + express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caaiomf/AulaAovivo01PPI.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "caio favarao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caaiomf/AulaAovivo01PPI/issues"
+  },
+  "homepage": "https://github.com/Caaiomf/AulaAovivo01PPI#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
